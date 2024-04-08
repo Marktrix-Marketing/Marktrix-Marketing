@@ -1,19 +1,22 @@
 # Bem-vindo(a) à *Marktrix Marketing*!
 
-### 👋 **Quem Somos?**
-Somos **inovadores digitais** comprometidos em transformar negócios. Nossa missão é catapultar sua presença online, tornando sua marca uma história de sucesso inesquecível.
+Somos **inovadores digitais** comprometidos em transformar negócios. 
 
-### 👀 **O Que Nos Move?**
+Nossa missão é catapultar sua presença online, tornando sua marca uma história de sucesso inesquecível.
+
+
+### 🟢 **O Que Nos Move?**
 Navegamos na vanguarda do **marketing digital**, explorando novas fronteiras com **automações avançadas** e **inteligência artificial** para estratégias que não só atraem, mas converte e principalmente tornam seus clientes em defensores da sua marca.
 
-### 🌱 **Em Constante Evolução**
+### 🟢 **Em Constante Evolução**
 Mergulhados em **análises preditivas** e **Big Data**, estamos sempre um passo à frente, antecipando movimentos de mercado para garantir que nossos clientes estejam sempre em evolução constante.
 
-### 💞️ **Vamos Inovar Juntos?**
+### 🟢 **Vamos Inovar Juntos?**
 Procuramos mentes audaciosas para projetos revolucionários. **Sua visão** + **Nossa expertise** = **Impacto sem LIMITES!.**
 
 
-### Comece a transformar seu negócio AGORA com a Marktrix! 
+
+## Comece a transformar seu negócio AGORA com a Marktrix! 
 
 **Estamos a um toque de distância:**
 
