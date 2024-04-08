@@ -18,6 +18,7 @@ Transforme sua marca com a Marktrix. **Estamos a um toque de distância:**
 [![WhatsApp](https://img.shields.io/badge/-Fale%20Conosco%20no%20WhatsApp-black?style=for-the-badge&logo=whatsapp)](https://wa.me/5545991119001)
 [![LinkedIn](https://img.shields.io/badge/-Conecte--se%20no%20LinkedIn-black?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/marktrix-marketing)
 [![Instagram](https://img.shields.io/badge/-Siga%20no%20Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/marktrix.marketing)
+[![Facebook](https://img.shields.io/badge/-Curta%20nossa%20página%20no%20Facebook-black?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Marktrix.Mkt)
 
 ### ⚡ **Curiosidade**
 Sabia que uma **estratégia de marketing digital** bem afinada pode elevar o **ROI** da sua empresa em até **300%**? 
