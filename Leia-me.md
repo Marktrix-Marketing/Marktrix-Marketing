@@ -15,9 +15,9 @@ Procuramos mentes audaciosas para projetos revolucionários. **Sua visão** + **
 ### 📫 **Contato**
 Transforme sua marca com a Marktrix. **Estamos a um toque de distância:**
 
-[![WhatsApp](https://img.shields.io/badge/-Fale%20Conosco%20no%20WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/5545991119001)
-[![LinkedIn](https://img.shields.io/badge/-Conecte--se%20no%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/marktrix-marketing)
-[![Instagram](https://img.shields.io/badge/-Siga%20no%20Instagram-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/marktrix.marketing)
+[![WhatsApp](https://img.shields.io/badge/-Fale%20Conosco%20no%20WhatsApp-black?style=for-the-badge&logo=whatsapp)](https://wa.me/5545991119001)
+[![LinkedIn](https://img.shields.io/badge/-Conecte--se%20no%20LinkedIn-black?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/marktrix-marketing)
+[![Instagram](https://img.shields.io/badge/-Siga%20no%20Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/marktrix.marketing)
 
 ### ⚡ **Curiosidade**
 Sabia que uma **estratégia de marketing digital** bem afinada pode elevar o **ROI** da sua empresa em até **300%**? 
